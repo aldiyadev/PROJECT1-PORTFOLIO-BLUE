@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="468" height="462" viewBox="0 0 468 462">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.468" y1="0.172" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08d665"/>
+      <stop offset="0.331" stop-color="#47cb83"/>
+      <stop offset="1" stop-color="#b7b7b7"/>
+    </linearGradient>
+  </defs>
+  <g id="Ellipse_1" data-name="Ellipse 1" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+    <ellipse cx="234" cy="231" rx="234" ry="231" stroke="none"/>
+    <ellipse cx="234" cy="231" rx="233.5" ry="230.5" fill="none"/>
+  </g>
+</svg>
